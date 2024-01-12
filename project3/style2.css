@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=Kanit&family=Mountains+of+Christmas:wght@700&family=Roboto&family=Smooch&family=Whisper&display=swap');
+h1{
+    font-family: kanit;
+    color: rgb(0, 0, 0);
+    margin-left: 450px; 
+}
+
+h2{
+    font-family: kanit;
+    margin-left: 60px;
+}
+
+body{
+    margin: 0%;
+    padding: 0%;
+    background-color:dimgrey;
+}
+
+.txt{
+    margin-right: 100px;
+    color: rgb(0, 0, 0);
+  }
+
+.divblock:hover{
+    box-shadow: 40px 15px color rgb(255, 255, 255);
+    transition: 1.5s;
+    scale: 1.1;
+}
+
+.divblock{
+    border: solid;
+    border-radius: 20px; 
+}
+
+img{
+    border-radius: 10%;
+    box-shadow: 0px 3px 5px -1px #ccc;
+}
+
+
+
+
+
+
