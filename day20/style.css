@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Kanit&family=Mountains+of+Christmas:wght@700&family=Roboto&family=Smooch&family=Whisper&display=swap');
+.header{
+  position: fixed;
+  background-color: rgb(11,39,87);
+  top:0;
+  left:0;
+  width:100%;
+  padding: 20px 10%;
+  display: flex;
+  align-items: center;
+  z-index: 100;
+ 
+}
+#logo{
+  margin-right: 900px;
+  font-size: 25px;
+  color: whitesmoke;
+  text-decoration: none;
+  font-weight: 600;
+  font-family: kanit;
+}
+.navbar{
+  font-size: 25px;
+  color:whitesmoke;
+  text-decoration: none;
+  font-weight: 600;
+  margin-right: 20px;
+  font-family: kanit;
+}
+body{
+  background-image: url(https://scontent.xx.fbcdn.net/v/t1.15752-9/416814842_3340618436236430_2085906504713574984_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=510075&_nc_ohc=jz7K9GRNcBwAX-pDSBQ&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AdRBnLiJtUCNYISyLXkcGVv4xlmLW9Y8JYw35utGlAvAAQ&oe=65C78BBF);       
+  background-repeat: no-repeat;       
+  background-size: cover; 
+  background-color:rgb(11,39,87);
+}

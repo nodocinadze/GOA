@@ -1,0 +1,76 @@
+#header{
+    position: fixed;
+    background-color: rgb(139, 8, 8);
+    top:0;
+    left:0;
+    width:100%;
+    padding: 20px 10%;
+    display: flex;
+    align-items: center;
+    z-index: 100;
+  }
+  .hyperlinks{
+    font-size: 25px;
+    color:black;
+    text-decoration: none;
+    font-weight: 600;
+    margin-left: 20px;
+  }
+  #logo{
+    font-size: 25px;
+    color:black;
+    text-decoration: none;
+    font-weight: 600;
+  }
+  #hyper{
+    font-size: 25px;
+    color: black;
+    text-decoration: none;
+    font-weight: 600;
+    margin-left: 900px;
+    
+  
+  }
+  #hyper:hover{
+    color:rgb(52, 190, 176);
+  }
+  .hyperlinks:hover{
+    color:rgb(67, 156, 53);
+  }
+  #logo:hover{
+    color:rgb(69, 201, 161);
+  }
+  body{
+    background-color: rgba(19, 197, 117, 0.801);
+  }
+  
+  #img{
+    margin-top: 400px;
+  }
+  #section2{
+    text-align: center;
+    align-items: center;
+  }
+  .para{
+    color:rgb(56, 54, 54);
+    font-family: "Mukta", sans-serif;
+    font-style: normal;
+    text-align: center;
+    margin-bottom:0;
+  
+  }
+  #abought{
+    text-align: center;
+    align-items: center;
+    margin-top: 200px;
+  }
+  .parag{
+    color:rgb(56, 54, 54);
+    font-family: "Mukta", sans-serif;
+    font-style: normal;
+    text-align: center;
+    margin-bottom:0;
+  }
+  .parag b{
+    color:black;
+  }
